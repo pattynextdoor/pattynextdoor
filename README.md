@@ -20,7 +20,7 @@
 
 ---
 
-I build things that are useful to me and share them here. I enjoy adding thematic flair, delightful QoL features, and shifting the parts of a design in a bold direction.
+I build things that are useful to me and share them here. I enjoy adding thematic flair, delightful QoL features, and shifting parts of a design in a bold direction.
 
 ### Projects
 - ⚡ [tp](https://github.com/pattynextdoor/tp) - Teleport anywhere in or between projects. My rendition of `zoxide`.
