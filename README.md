@@ -29,4 +29,4 @@ I build things that are useful to me and share them here. I enjoy adding themati
 - 🌠 [Vex Dashboard](https://github.com/pattynextdoor/vex-dashboard) - A WebGL-powered “singularity dashboard” for Vex (my Openclaw agent) with chat and particle-based visuals.
 - 🧠 [MeetingMind](https://meetingmind.me) - Obsidian plugin that turns messy meeting transcripts into linked notes, summaries, and action items
 - 🐠 [Stocking Fish](https://github.com/pattynextdoor/stocking-fish) - Modern webapp for planning aquarium livestocking. My rendition of `aqadvisor`.
-- 👊 [LFG Bot](https://github.com/pattynextdoor/lfg-bot) - Discord bot for my FGV community. Slash commands that support LFG and Room thread creation, among other misc tasks.
+- 👊 [LFG Bot](https://github.com/pattynextdoor/lfg-bot) - Discord bot for my FGV community. Slash commands that support LFG, Room thread creation, other misc tasks.
