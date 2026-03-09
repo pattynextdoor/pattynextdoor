@@ -24,6 +24,7 @@ I build things that are useful to me and share them here. I enjoy adding themati
 
 ### Projects
 - ⚡ [tp](https://github.com/pattynextdoor/tp) - Teleport anywhere in or between projects. My rendition of `zoxide`.
+- 🫥 [ditto](https://github.com/pattynextdoor/ditto) - A personal dotfile manager that supports hooks. Wrote the Rust source by hand. My rendition of `GNU Stow`.
 - ☄️ [uberfetch](https://github.com/pattynextdoor/uberfetch) - Arcane shapes in your terminal! My rendition of `neofetch`.
 - 📜 [Conclave](https://useconclave.com/) - Conclave digs through your meetings and arcanely visualizes the connections between them.
 - 🌠 [Vex Dashboard](https://github.com/pattynextdoor/vex-dashboard) - A WebGL-powered “singularity dashboard” for my Openclaw agent with chat and particle visuals.
